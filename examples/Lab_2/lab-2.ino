@@ -20,7 +20,7 @@
 // ***
 // *** Allow the Tinker application to work with this application.
 // ***
-#include <Tinker.h>
+#include "Tinker.h"
 
 // ***
 // *** Light Threshold

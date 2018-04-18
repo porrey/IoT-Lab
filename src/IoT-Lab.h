@@ -19,4 +19,6 @@
 #ifndef _PARTICLE_GPS_H
 #define _PARTICLE_GPS_H
 
+#include "Tinker.h"
+
 #endif
