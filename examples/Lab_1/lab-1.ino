@@ -20,7 +20,7 @@
 // ***
 // *** Light Threshold
 // ***
-#define LIGHT_THRESHOLD 100
+#define LIGHT_THRESHOLD 150
 
 // ***
 // *** Specifies the pin on which the LDR is connected.

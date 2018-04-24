@@ -25,7 +25,7 @@
 // ***
 // *** Light Threshold
 // ***
-int _lightThreshold = 100;
+int _lightThreshold = 150;
 
 // ***
 // *** Last read light level.
